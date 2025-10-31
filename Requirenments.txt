@@ -1,0 +1,19 @@
+# Core deep learning framework
+torch
+torchvision
+
+# YOLOv8 (Ultralytics)
+ultralytics
+
+# Image processing & computer vision
+opencv-python
+
+# Data handling & analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Optional: for displaying images or progress
+tqdm
