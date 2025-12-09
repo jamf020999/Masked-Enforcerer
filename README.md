@@ -1,3 +1,6 @@
+**Demo Video Link**
+https://www.youtube.com/watch?v=IpvkmssNUD8
+
 # Masked-Enforcerer
 **Important: to make the project run smoothly is recommended to upload it directly on 
 google colab in order to have access to all of the functionalities and tools without 
