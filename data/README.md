@@ -28,3 +28,5 @@ Splitting data into training (70%), validation (20%), and testing (10%) subsets
 
 Purpose:
 The dataset serves as the foundation for developing a real-time face mask detection system that could be applied in public safety monitoring, workplace compliance, and health screening systems — all at zero cost using Google Colab’s free tier.
+
+In raw.md its possible to find the dataset used, conveniently uploaded in Google Drive in order to make it more accessible
