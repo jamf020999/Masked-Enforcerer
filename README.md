@@ -1,4 +1,9 @@
 # Masked-Enforcerer
+**Important: to make the project run smoothly is recommended to upload it directly on 
+google colab in order to have access to all of the functionalities and tools without 
+needing to manually install them.
+On the main page there is a folder labeled "stock" with a series of images featuring people which can be uploaded when the model requires it once its executed
+The project was realized in such a way that all that is needed to do is to execute all of the cells at once and sequentially the process will be done and the model will test the images inputed.**
 6261-15983-ITAI-1378-Midterm 
 Project Name & Team Members: Masked Enforcerer. Jose Moreno
 
