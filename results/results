@@ -1,0 +1,35 @@
+**Test 1**
+DETECTION RESULTS:
+
+Image 1: wstock1-nomask (1).jpeg
+  → without_mask  (confidence: 0.89)
+
+Image 2: wstock3-wrongmask (1).jpg
+  → without_mask  (confidence: 0.89)
+
+Image 3: mastock2-goodmask (1).png
+  → with_mask  (confidence: 0.90)
+
+**Test 2**
+DETECTION RESULTS:
+
+Image 1: mastock2-goodmask (2).png
+  → with_mask  (confidence: 0.90)
+
+Image 2: wstock2-goodmask (1).jpg
+  → with_mask  (confidence: 0.91)
+
+Image 3: mstock1-nomask (1).jpg
+  → without_mask  (confidence: 0.83)
+
+**Test 3**
+DETECTION RESULTS:
+
+Image 1: wstock2-wrongmask (1).jpg
+  No detections.
+
+Image 2: mstock1-wrongmask (1).jpg
+  → without_mask  (confidence: 0.76)
+
+Image 3: mstock2-goodmask (1).jpg
+  → with_mask  (confidence: 0.87)
